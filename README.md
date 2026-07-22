@@ -4,6 +4,8 @@
 
 Built with **LangGraph** for agent orchestration, **DeepSeek** for reasoning, **DuckDuckGo** for web search, and **Streamlit** for the UI.
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?logo=streamlit)](https://agentresearch-nwbp49bym3i7fr9w5awpjv.streamlit.app)
+
 ---
 
 ## 🏗 Architecture
