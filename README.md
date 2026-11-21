@@ -4,7 +4,10 @@
 
 Built with **LangGraph** for agent orchestration, **DeepSeek** for reasoning, **DuckDuckGo** for web search, and **Streamlit** for the UI.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?logo=streamlit)](https://agentresearch-nwbp49bym3i7fr9w5awpjv.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?logo=streamlit&logoColor=white)](https://agentresearch-nwbp49bym3i7fr9w5awpjv.streamlit.app)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/samah3303/agentresearch?style=social)](https://github.com/samah3303/agentresearch)
 
 ---
 
@@ -129,7 +132,7 @@ graph TD
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/yourusername/agentresearch.git
+git clone https://github.com/samah3303/agentresearch.git
 cd agentresearch
 ```
 
